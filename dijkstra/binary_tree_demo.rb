@@ -6,6 +6,7 @@
 # We make no guarantees that this code is fit for any purpose. 
 # Visit http://www.pragmaticprogrammer.com/titles/jbmaze for more book information.
 #---
+# The first algoritm
 require 'grid'
 require 'binary_tree'
 
